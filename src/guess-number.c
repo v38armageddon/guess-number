@@ -4,7 +4,7 @@
 int randNumber;
 int answer;
 int count = 1;
-int upper = 13;
+int upper = 1600;
 int lower = 1;
 
 int main() {
@@ -13,7 +13,7 @@ int main() {
         randNumber = (rand() % (upper - lower + 1)) + lower;
     };
     /* Ask the user to guess */
-    printf("Guess a number between 1 and 13: \n");
+    printf("Guess a number between 1 and 1500: \n");
     scanf("%d", &answer);
     
     /* Check if it's the correct number */
