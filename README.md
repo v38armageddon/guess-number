@@ -12,4 +12,6 @@ To launch the game, you need to follow the following commands:
 
 ``$ make``
 
+``$ ./guess-number``
+
 This game is under the license: GPL-3.0
