@@ -20,4 +20,4 @@ If you want to remove the game, go to the src folder and type:
 
 ``$ make uninstall``
 
-This game is under the license: GPL-3.0
+This game is under the license: The Unlicense
